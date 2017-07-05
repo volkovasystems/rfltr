@@ -1,0 +1,26 @@
+{
+  "name": "rfltr",
+  "version": "0.0.0",
+  "description": "Alternative array filter function.",
+  "main": "rfltr.deploy.js",
+  "support": "rfltr.support.js",
+  "authors": [
+    "Richeve S. Bebedor <richeve.bebedor@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "alternative",
+    "array",
+    "filter",
+    "function",
+    "rfltr"
+  ],
+  "homepage": "https://github.com/volkovasystems/rfltr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
